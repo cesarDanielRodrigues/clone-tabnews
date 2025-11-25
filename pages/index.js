@@ -1,5 +1,9 @@
-function Home(){
-  return <h1>Mensagem muito importante</h1>
+function Home() {
+  return <h1>Mensagem muito importante</h1>;
 }
 
-export default Home
+function teste() {
+  console.log("indentação errada");
+}
+
+export default Home;
